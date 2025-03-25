@@ -1,0 +1,34 @@
+body{ 
+    background-color: rgba(209, 248, 238, 0.578) ;
+    text-align: center;
+    
+  
+}
+
+h1{ 
+    font-size: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+
+.b { 
+    color: rgb(0,255,0) ;
+    font-size: 22px ;
+    border: solid red ;
+    border-radius: 20px ;
+    width: 250px;
+    
+}
+
+#lemon { color:red; 
+    font-size: 14px;
+    background-image: url(https://www.google.com/imgres?q=city&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1477959858617-67f85cf4f1df%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eXxlbnwwfHwwfHx8MA%253D%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcity&docid=IgPdAdX_6UbCuM&tbnid=FVMUIAsuwebKuM&vet=12ahUKEwjz2-C6-aWMAxU09AIHHW1BDLkQM3oECBoQAA..i&w=3000&h=1845&hcb=2&itg=1&ved=2ahUKEwjz2-C6-aWMAxU09AIHHW1BDLkQM3oECBoQAA) ;
+}
+
+#sws { color: orange; 
+}
+
+#cc { color:yellow; 
+    background-color: black;
+    
+}
