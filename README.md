@@ -3,4 +3,4 @@
 <li> practice commands </li>
 <li> practice GIT </li>
 <li> html and img practice</li>
-</ul>lo
+</ul> 
